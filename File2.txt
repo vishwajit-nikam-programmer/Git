@@ -1,1 +1,2 @@
 This one is second file of git course
+Added second line into file2.txt
