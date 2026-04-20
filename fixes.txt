@@ -2,3 +2,4 @@ I am fix file which will be used to fix the bug
 fixed another bug
 
 add another marketing marketing section
+Add footer note
