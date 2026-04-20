@@ -2,3 +2,4 @@ I am fix file which will be used to fix the bug
 fixed another bug
 one more bug detected and fixed
 Fourth bug fixed
+new bug detected and fixed.(fifth bug)
