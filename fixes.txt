@@ -10,3 +10,5 @@ new bug detected and fixed.(fifth bug)
 another fix message for pinkmode.
 
 move to next fixing.
+
+another fix for purple mode.
