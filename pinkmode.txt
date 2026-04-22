@@ -1,0 +1,3 @@
+this is pinkmode for the website
+
+git merge successfull
